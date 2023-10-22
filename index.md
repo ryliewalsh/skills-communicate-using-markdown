@@ -6,3 +6,4 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Make a checkbox
